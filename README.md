@@ -1,6 +1,6 @@
 wind-sso的sdk（客户端），java语言开发，适合java web项目引入。
 
-1、配置文件
+1、配置文件（在【src/wind-sso-client.properties】）
 
     #配置来源（1=本地【wind-sso-client.properties】；2=远程sso服务【默认。url为sso_server_url值】）
     config_source=2
